@@ -1,0 +1,161 @@
+body {
+    font-family: sans-serif;
+    background: #f2ebe3;
+    margin: 0;
+    padding: 2rem;
+  }
+  
+  .product-card {
+    background: white;
+    max-width: 600px;
+    padding: 2rem;
+    border-radius: 10px;
+    margin: auto;
+  }
+  
+  img {
+    max-width: 100%;
+    border-radius: 10px;
+  }
+  
+  .category {
+    text-transform: uppercase;
+    color: gray;
+    font-size: 0.9rem;
+    margin-top: 1rem;
+  }
+  
+  h1 {
+    font-size: 1.5rem;
+    margin: 1rem 0;
+  }
+  
+  .product-desc p {
+    font-size: 0.95rem;
+    color: #333;
+  }
+  
+  .pricing {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin: 1rem 0;
+  }
+  
+  .sale-price {
+    color: #3d8168;
+    font-weight: bold;
+    font-size: 1.2rem;
+  }
+  
+  .list-price {
+    text-decoration: line-through;
+    color: gray;
+  }
+  
+  button {
+    background-color: #3d8168;
+    color: white;
+    padding: 0.75rem 1.5rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 1rem;
+  }
+  
+  button:hover {
+    background-color: #1a4032;
+  }
+  
+  footer.attribution {
+    text-align: center;
+    margin-top: 2rem;
+    font-size: 0.9rem;
+  }
+  
+  footer.attribution a {
+    color: #000;
+    text-decoration: none;
+  }
+  
+  footer.attribution a:hover {
+    text-decoration: underline;
+  }
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f2ebe3;
+    padding: 20px;
+  }
+  
+  .product-card {
+    background-color: white;
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  img {
+    width: 100%;
+    border-radius: 10px;
+  }
+  
+  .category {
+    text-transform: uppercase;
+    color: gray;
+    font-size: 14px;
+    margin-top: 10px;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin: 10px 0;
+  }
+  
+  .product-desc p {
+    color: #555;
+    font-size: 16px;
+  }
+  
+  .pricing {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin: 20px 0;
+  }
+  
+  .sale-price {
+    font-size: 24px;
+    color: #3d8168;
+    font-weight: bold;
+  }
+  
+  .list-price {
+    text-decoration: line-through;
+    color: gray;
+  }
+  
+  button {
+    background-color: #3d8168;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #1a4032;
+  }
+  
+  footer {
+    text-align: center;
+    margin-top: 40px;
+  }
+  
+  footer .attribution a {
+    text-decoration: none;
+    color: #000;
+  }
+  
